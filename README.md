@@ -12,7 +12,7 @@ Build
 
 Client Usage
 -----
-    telnet localhost 8000
+    $ telnet localhost 8000
     Trying 127.0.0.1...
     Connected to localhost.
     Escape character is '^]'.
