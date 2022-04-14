@@ -12,8 +12,11 @@ Build
 
 Client Usage
 -----
-
-    Input the data into queue
-    in <any message> 
+Input the data into queue
+in <any message> 
     $ in apple
     $ Added to queue.
+
+Output the data from queue
+    $ out
+    $ apple
