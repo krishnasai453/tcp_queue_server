@@ -1,0 +1,1 @@
+-record(state, {queue = tcp_queue:new(), listen_socket, accept_socket}).
